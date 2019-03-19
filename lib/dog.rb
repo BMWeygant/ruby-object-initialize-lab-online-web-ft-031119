@@ -5,7 +5,7 @@ def initialize(name, breed)
 if breed
   @breed = breed
 else
-  @breed = "Mutt"
+  breed = "Mutt"
 
   end
 end
