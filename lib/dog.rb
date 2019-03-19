@@ -6,5 +6,3 @@ def initialize(name, breed)
 breed = "Mutt"
   end
 end
-
-Dog.new("Fido", "Mutt")
